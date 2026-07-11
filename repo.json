@@ -4,6 +4,6 @@
   "description": "My Cloudstream Repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/plugins.json"
+    "https://raw.githubusercontent.com/manurocky143a-del/cine/main/plugins.json"
   ]
 }
