@@ -1,9 +1,21 @@
 {
-  "name": "My Repo",
-  "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/cnc.png",
-  "description": "My Cloudstream Repository",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/plugins.json"
-  ]
+  "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse%20Mobile/logo.jpeg",
+  "fileHash": "sha256-08733d7d5db79418235ac9b694d80454c9c9b36f161fd7746b588043275f454b",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+  "fileSize": 91400,
+  "status": 1,
+  "language": "ta",
+  "authors": [
+    "NivinCNC"
+  ],
+  "tvTypes": [
+    "Movie",
+    "TvSeries"
+  ],
+  "version": 3,
+  "internalName": "CNC Verse Mobile",
+  "description": "NetMirror Mobile API",
+  "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC%20Verse%20Mobile.cs3",
+  "name": "CNC Verse Mobile"
 }
